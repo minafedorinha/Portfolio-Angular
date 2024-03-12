@@ -7,11 +7,15 @@ ul{
 }
 li {
     list-style: none;
-    font-size: 24px}
+    font-size: 24px
+}
 a{
     text-decoration: none;
+    margin: 20px; /* Aplica 20 pixels para todos os lados */
+
 }
 .contact{
-    display: grid;
-    
+    font-size: 24px
+
+
 }
